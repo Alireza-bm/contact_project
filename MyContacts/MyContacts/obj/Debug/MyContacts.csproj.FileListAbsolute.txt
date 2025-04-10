@@ -1,0 +1,10 @@
+E:\visual 20115\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+E:\visual 20115\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+E:\visual 20115\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.csprojResolveAssemblyReference.cache
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.Cache
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+E:\visual 20115\MyContacts\MyContacts\obj\Debug\MyContacts.add_and_edite.resources
